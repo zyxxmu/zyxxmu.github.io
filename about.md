@@ -6,7 +6,7 @@ description: When building a website it's helpful to see what the focus of your 
 <h2>Publications</h2>
 
 
-<p><span class="image left"><img src="/images/ABCPruner.jpg" width="200" hidth="150" alt="" /></span></p>
+<p><span class="image left"><img src="/images/ABCPruner.jpg" width="100" hidth="80" alt="" /></span></p>
 <o>Mingbao Lin, Rongrong Ji✉, Yuxin Zhang, Baochang Zhang, Yongjian Wu,Yonghong Tian</p><br>
 <p>Channel Pruning via Automatic Structure Search (Accepted).
  <a href="https://arxiv.org/abs/2001.08565">[arXiv]</a> <a href="https://github.com/lmbxmu/abcpruner">[code]</a></p><br>
