@@ -6,4 +6,9 @@ description: Every great website starts with a great homepage. The homepage tell
 <h2>Blogs</h2>
 <p>Here are some blogs I write while reading paper or writing code, have fun！
 							</p>
-https://me.csdn.net/weixin_42224823
+<h2>CSDN</h2>
+	<blockquote>https://me.csdn.net/weixin_42224823</blockquote>
+
+<h2>CNBLOGS</h2>
+	<blockquote>https://www.cnblogs.com/zyxxmu/</blockquote>
+
